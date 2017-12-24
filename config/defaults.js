@@ -1,10 +1,10 @@
 module.exports = {
-  host: "xmr.pool.minergate.com",
-  port: 45560,
+  host: "pool.supportxmr.com",
+  port: 3333,
   pass: "x",
   ssl: false,
   address: null,
-  user: "oren.sofrin@gmail.com",
+  user: null,
   diff: null,
   dynamicPool: false,
   maxMinersPerConnection: 10000,
